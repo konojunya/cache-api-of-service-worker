@@ -1,5 +1,5 @@
-# service-worker-example
-service worker is awesome!
+# CacheAPI from Service Worker
+Cache API! service worker is awesome!
 
 github pagesへアクセスして
 
